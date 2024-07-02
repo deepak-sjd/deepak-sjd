@@ -1,0 +1,13 @@
+-  Hi👋, I’m Deepak Kumar
+- 👀 I’m a Flutter Application Developer 
+- 🌱 I’m currently learning Node.js & Firebase
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me deepakkg2508@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+deepak-sjd/deepak-sjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
