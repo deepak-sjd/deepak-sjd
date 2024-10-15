@@ -1,84 +1,81 @@
 ![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_Flutter_Main_Image_506048e7be.webp?w=1920&q=75)
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate Flutter Application Developer from India</h3>
-<image align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-sjd&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-sjd" /> </p>
+<h1 align="center">Hello, I'm Deepak Kumar 👋</h1>
+<h3 align="center">Passionate Flutter Application Developer | India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Node.js & Firebase**
-- 📝 I regularly Solving Problem on leetcode [https://leetcode.com/u/Deepak74795/](https://leetcode.com/u/Deepak74795/)
-- 💬 Ask me about **Java | Flutter | Android Developement**
-- 📫 How to reach me **deepakkumargupta82002@gmail.com**
-- 📄 Know about my Skills [https://drive.google.com/file/d/1RdSMUBptN8PhAvFJePLFpbcjWpZE9n2p/view](https://drive.google.com/file/d/1RdSMUBptN8PhAvFJePLFpbcjWpZE9n2p/view)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-sjd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<h2>What I Offer</h2>
+<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
 
-- **Backend Development:** Creating RESTful APIs, microservices, and server-side applications with a focus on performance and security.
-- **Frontend Development:** Building responsive and dynamic user interfaces with Flutter, FlutterFlow, and Android.
-- **Database Management:** Designing and managing SQL and NoSQL databases to ensure data integrity and optimized query performance.
-- **Full Stack Solutions:** Integrating frontend and backend components to develop cohesive and user-friendly web applications and Cross-Platforms Application.
+---
 
-<h2>My Approach</h2>
+### 🌟 About Me
+- 🌱 Currently learning **Node.js** & **Spring Boot**
+- 📝 Problem-solving on LeetCode: [Deepak's LeetCode Profile](https://leetcode.com/u/Deepak74795/)
+- 💬 Expertise in **Java | Flutter | Android Development**
+- 📫 Reach me at: **deepakkumargupta82002@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1RdSMUBptN8PhAvFJePLFpbcjWpZE9n2p/view)
 
-- **Problem Solving:** I enjoy tackling complex problems and finding effective solutions that meet user needs and business goals.
-- **Continuous Learning:** Staying updated with the latest trends and best practices in web development to deliver cutting-edge solutions.
-- **Collaboration:** Working closely with clients and team members to ensure successful project outcomes.
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💼 What I Offer
+- **Backend Development**: RESTful APIs, microservices, and server-side apps focusing on performance & security.
+- **Frontend Development**: Crafting responsive and dynamic interfaces using **Flutter** and **Android**.
+- **Database Management**: Efficient **SQL** and **NoSQL** database design, ensuring data integrity and performance.
+- **Full Stack Solutions**: Combining frontend & backend to create cohesive, scalable web and mobile apps.
+
+---
+
+### 🔥 My Approach
+- **Problem-Solving**: Tackling complex challenges with efficient, user-centric solutions.
+- **Continuous Learning**: Keeping up-to-date with the latest technologies in the development ecosystem.
+- **Collaboration**: Working effectively with teams and clients to deliver high-quality results.
+
+---
+
+### 📈 Technical Skills:
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 🛠️ Tools I Use:
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌱 Currently Learning:
+- **Node.js**
+- **Spring Boot**
+
+---
+
+### 📚 Core Subjects:
+- **DBMS (Database Management Systems)**
+- **Operating Systems**
+- **Computer Networks**
+- **Software Engineering (Models)**
+
+---
+
+### 💻 Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/deepak-sjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-sjd" height="30" width="40" /></a>
-<a href="https://fb.com/gupta.deepakkumar.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gupta.deepakkumar.14" height="30" width="40" /></a>
-<a href="https://instagram.com/gupta_deepak_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gupta_deepak_74" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cu_21bcs9713" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_21bcs9713" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepak74795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak74795" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@deepakkumargupt6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@deepakkumargupt6" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/deepak-sjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/gupta.deepakkumar.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/gupta_deepak_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/deepak74795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/cu_21bcs9713" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@deepakkumargupt6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-sjd&show_icons=true&locale=en&layout=compact" alt="deepak-sjd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-sjd&show_icons=true&locale=en" alt="deepak-sjd" /></p>
-
-<h2>Get in Touch</h2>
-
-Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
-
-- **Email:** [sujaldave880@gmail.com](mailto:sujaldave880@gmail.com)
