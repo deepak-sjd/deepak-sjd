@@ -21,16 +21,17 @@
 ---
 
 ### 💼 What I Offer
-- **Backend Development**: RESTful APIs, microservices, and server-side apps focusing on performance & security.
+- **Backend Development**: Skills in building RESTful APIs, with knowledge of Firebase and SQL, focusing on performance and security.
 - **Frontend Development**: Crafting responsive and dynamic interfaces using **Flutter** and **Android**.
-- **Database Management**: Efficient **SQL** and **NoSQL** database design, ensuring data integrity and performance.
-- **Full Stack Solutions**: Combining frontend & backend to create cohesive, scalable web and mobile apps.
-
+- **Database Management**:  Knowledge in designing and managing **SQL** databases, ensuring data integrity and performance.
+- **Full Stack Solutions**: Ability to integrate frontend and backend technologies to develop cohesive, scalable web and mobile applications.
+ 
 ---
 
 ### 🔥 My Approach
 - **Problem-Solving**: Tackling complex challenges with efficient, user-centric solutions.
 - **Continuous Learning**: Keeping up-to-date with the latest technologies in the development ecosystem.
+-  **Adaptability**: Quickly learning and adapting to new technologies as required.
 - **Collaboration**: Working effectively with teams and clients to deliver high-quality results.
 
 ---
