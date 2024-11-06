@@ -1,7 +1,7 @@
 ![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_Flutter_Main_Image_506048e7be.webp?w=1920&q=75)
 
 <h1 align="center">Hello, I'm Deepak Kumar 👋</h1>
-<h3 align="center">Passionate Flutter Application Developer | India</h3>
+<h3 align="center">Passionate Java and flutter Developer | India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,11 +12,11 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **Node.js** & **Spring Boot**
-- 📝 Problem-solving on LeetCode: [Deepak's LeetCode Profile](https://leetcode.com/u/Deepak74795/)
-- 💬 Expertise in **Java | Flutter | Android Development**
+- 🌱 Currently learning **Java Swing** & **Spring Boot**
+- 📝 Problem-solving on LeetCode: [LeetCode](https://leetcode.com/u/Deepak74795/)
+- 💬 Expertise in **Java | SQL| Flutter | Android Development**
 - 📫 Reach me at: **deepakkumargupta82002@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1RdSMUBptN8PhAvFJePLFpbcjWpZE9n2p/view) | 🌐 [Portfolio](#)
+- 📄 [View My Resume](https://drive.google.com/file/d/1EdTn1vG1LdB32UBEjuZhsCbWtlv7Y1JL/view?usp=sharing) | 🌐 [Portfolio](https://bento.me/deepaksd)
 
 ---
 
@@ -57,5 +57,5 @@
 ---
 
 ### 🌱 Currently Learning:
-- **Node.js**
+- **Java Swing**
 - **Spring Boot**
