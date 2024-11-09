@@ -13,7 +13,7 @@
 
 ### 🌟 About Me
 - 🌱 Currently learning **Java Swing** & **Spring Boot**
-- 📝 Problem-solving on LeetCode & Hacker rank: [LeetCode](https://leetcode.com/u/Deepak74795/),[HackerRank](https://www.hackerrank.com/profile/deepakkumargupt6/)
+- 📝 Problem-solving on [**LeetCode**](https://leetcode.com/u/Deepak74795/)  ||  [**HackerRank**](https://www.hackerrank.com/profile/deepakkumargupt6/)
 - 💬 Expertise in **Java | SQL| Flutter | Android Development**
 - 📫 Reach me at: **deepakkumargupta82002@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1EdTn1vG1LdB32UBEjuZhsCbWtlv7Y1JL/view?usp=sharing) | 🌐 [Portfolio](https://bento.me/deepaksd)
