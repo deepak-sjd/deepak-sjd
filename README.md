@@ -1,6 +1,6 @@
 ![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_Flutter_Main_Image_506048e7be.webp?w=1920&q=75)
 
-<h1 align="center">Hello, I'm Deepak Kumar 👋</h1>
+<h1 align="center">Hii👋, I'm Deepak Kumar </h1>
 <h3 align="center">Passionate Java and flutter Developer | India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -56,6 +56,31 @@
 
 ---
 
+### 🌱 Core Subject:
+- **Database Management System**
+- **Opreating System**
+- **Computer network**
+- **Software Enginnering**
+
+---
+
 ### 🌱 Currently Learning:
 - **Java Swing**
 - **Spring Boot**
+---
+
+## Connect with me:
+<div id="badges">
+  <a href="https://github.com/deepak-sjd">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/gupta_deepak_74/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/gupta.deepakkumar.14">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@funwithflutter637/featured">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
