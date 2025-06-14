@@ -1,7 +1,7 @@
-![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_Flutter_Main_Image_506048e7be.webp?w=1920&q=75)
+
 
 <h1 align="center">Hii👋, I'm Deepak Kumar </h1>
-<h3 align="center">Passionate Java and flutter Developer | India</h3>
+<h3 align="center">Passionate Java Full Stack Developer | India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
