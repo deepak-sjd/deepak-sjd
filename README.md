@@ -1,139 +1,337 @@
-<!-- Centered Introduction -->
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">
+Hi 👋, I'm Deepak Kumar
+</h1>
+
+<h3 align="center">
+AI Engineer | Java Full Stack Developer | Building Production-Ready AI & Web Applications
+</h3>
+
 <p align="center">
-  <strong><font size="6">Hi 👋, I'm Deepak Kumar</font></strong><br>
-  <em>💻 Java Full Stack Developer from India</em><br>
-  <sub>Building scalable apps with Java, Spring Boot, SQL & Flutter</sub>
+I build intelligent software using <strong>Generative AI, LLMs, RAG, Computer Vision, Java Spring Boot, React, SQL, Docker</strong> and modern cloud technologies.
 </p>
 
 ---
 
-### 🌟 About Me
+# 🚀 About Me
 
-<div style="border: 2px solid #d0d7de; border-radius: 10px; background-color: #f6f8fa; padding: 20px; margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td width="65%">
-        <ul>
-          <li>🎓 Completed <strong>B.Tech in Computer Science</strong></li>
-          <li>🌱 Currently mastering <strong>Spring Boot with real-life projects (Durgesh Sir)</strong></li>
-          <li>📈 Focused on <strong>Backend Development</strong> with Spring Boot, APIs & SQL</li>
-          <li>📝 Practicing on <a href="https://leetcode.com/u/Deepak74795/">LeetCode</a> | <a href="https://www.hackerrank.com/profile/deepakkumargupt6/">HackerRank</a></li>
-          <li>💬 Skilled in <strong>Java (Core + Advanced)</strong>, <strong>Spring Boot</strong>, <strong>SQL & PostgreSQL</strong>, <strong>Flutter</strong>, and <strong>REST APIs</strong></li>
-          <li>📫 Reach me at <strong>deepakkg2508@gmail.com</strong></li>
-          <li>🌐 <a href="https://bento.me/deepaksd">Portfolio</a></li>
-        </ul>
-      </td>
-      <td width="35%">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding animation" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 💼 AI Engineer passionate about solving real-world business problems using AI.
+- 🤖 Building AI Applications using **LLMs, RAG, Computer Vision, NLP and Agentic AI.**
+- 🌐 Full Stack Developer capable of building complete web applications from frontend to backend.
+- ⚡ Experienced with Java, Spring Boot, REST APIs, SQL, Docker and scalable backend systems.
+- 🧠 Strong knowledge of Data Structures & Algorithms.
+- 📈 Love designing clean architecture and production-ready software.
+- 🚀 Open to Freelance Projects and Long-Term Client Work.
+- 💬 Happy to build custom software for startups, businesses and enterprises.
+
+📫 Email:
+**deepakkg2508@gmail.com**
+
+🌐 Portfolio
+
+https://bento.me/deepaksd
 
 ---
 
-### 💼 What I Offer
+# 💼 Services I Offer
 
-- **Backend Development:** RESTful APIs using Java, Spring Boot, SQL & PostgreSQL  
-- **Frontend Development:** Flutter & Android UI development  
-- **Database Management:** SQL schema design, optimization, PostgreSQL  
-- **Full Stack Solutions:** End-to-end scalable application delivery with security  
+## 🤖 AI Development
 
----
+✔ Custom AI Applications
 
-### 🔥 My Approach
+✔ Chatbots
 
-- 🚀 Writing clean, optimized, and scalable code  
-- 📚 Committed to daily upskilling  
-- ⚙️ Fast learner of new technologies  
-- 🤝 A team player and occasional team leader  
+✔ AI Assistants
 
----
+✔ RAG Systems
 
-### 📈 Technical Skills
+✔ Enterprise Knowledge Base
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-006400?style=for-the-badge&logo=oracle&logoColor=white)
-![Collections](https://img.shields.io/badge/Collections-FF5733?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✔ Document Q&A Systems
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+✔ Computer Vision Solutions
 
-**Tools & Testing**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+✔ OCR Automation
+
+✔ Manufacturing AI Solutions
+
+✔ AI Workflow Automation
 
 ---
 
-### 📚 Core Academic Foundations
+## ☕ Java Backend Development
 
-- **DBMS:** Data structuring, querying, normalization  
-- **Operating Systems:** Process, memory, file, and security management  
-- **Computer Networks:** OSI layers, protocols, and architectures  
-- **Software Engineering:** SDLC models, testing & documentation  
+✔ Java
 
----
+✔ Spring Boot
 
-### 📜 Certifications
+✔ Spring MVC
 
-- ✅ **Java OOP: Object Oriented Programming with Exercises** (Udemy)  
-- ✅ **100+ Java Coding Practice Tests** (Udemy)  
-- ✅ **SQL: From Zero to Hero** (Udemy)  
-- ✅ **Flutter & Dart Development** (Udemy)  
-- ✅ **HTML, CSS & JavaScript** (Udemy)  
-- ✅ **Multithreading & Concurrency in Java** (Udemy)  
+✔ Spring Security
 
----
+✔ Spring Data JPA
 
-### 🚀 Currently Learning
+✔ REST APIs
 
-- 📖 **Mastering Spring Boot with real-life projects** (Durgesh Sir)  
-- 🌱 Enhancing **Backend Development** with advanced Spring features  
+✔ JWT Authentication
+
+✔ Microservices
+
+✔ SQL Database Design
+
+✔ API Integration
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Full Stack Development
+
+✔ React
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Flutter
+
+✔ Responsive UI
+
+✔ Backend APIs
+
+✔ Authentication
+
+✔ Database Integration
+
+✔ Admin Dashboards
+
+✔ Complete End-to-End Web Applications
+
+---
+
+## 🏢 Business Solutions
+
+I can build complete applications for
+
+- Hospital Management
+- School Management
+- Inventory Management
+- CRM Systems
+- ERP Modules
+- Manufacturing Dashboard
+- AI Automation
+- HR Management
+- Attendance Systems
+- Billing Systems
+- E-commerce
+- Internal Company Tools
+- Custom Business Software
+
+---
+
+# 🧠 Technical Skills
+
+## AI / Machine Learning
+
+- Python
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLM
+- RAG
+- LangChain
+- Vector Databases
+- Hugging Face
+- Computer Vision
+- OpenCV
+- PyTorch
+- TensorFlow
+- Pandas
+- NumPy
+- Scikit-learn
+
+---
+
+## Backend
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- REST API
+- JWT
+- Maven
+
+---
+
+## Frontend
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Flutter
+- Dart
+
+---
+
+## Database
+
+- MySQL
+- PostgreSQL
+- Firebase
+
+---
+
+## DevOps & Tools
+
+- Docker
+- Git
+- GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
+- Android Studio
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 Enterprise RAG System
+
+- Document Search
+- Semantic Search
+- Vector Database
+- LLM Integration
+- Enterprise Knowledge Assistant
+
+---
+
+### 🎥 Smart Manufacturing Time Study AI
+
+- Video Activity Recognition
+- Timeline Generation
+- Productivity Analytics
+- Bottleneck Detection
+- AI Dashboard
+
+---
+
+### 🏭 AI Fault Investigation Assistant
+
+- Manufacturing Failure Analysis
+- Root Cause Detection
+- RAG
+- LLM
+- Knowledge Base Search
+
+---
+
+### 🌐 Full Stack Web Applications
+
+- Authentication
+- REST APIs
+- Database Design
+- Admin Panels
+- Responsive UI
+- Production Deployment
+
+---
+
+# 📜 Certifications
+
+- Java Object Oriented Programming
+- SQL
+- Flutter Development
+- HTML CSS JavaScript
+- Java Multithreading
+- Spring Boot
+- Machine Learning (Continuously Learning)
+- Generative AI (Continuously Learning)
+
+---
+
+# 📚 Currently Exploring
+
+- Agentic AI
+- AI Agents
+- Multi-Agent Systems
+- NVIDIA AI Stack
+- MCP
+- Advanced RAG
+- AI Deployment
+- Kubernetes
+- System Design
+- Distributed Systems
+
+---
+
+# 🤝 Let's Work Together
+
+If you're looking for someone who can build
+
+✅ AI Applications
+
+✅ Chatbots
+
+✅ RAG Systems
+
+✅ Java Backend
+
+✅ Spring Boot APIs
+
+✅ Full Stack Applications
+
+✅ Business Software
+
+✅ Automation Tools
+
+I'm available for freelance opportunities and long-term collaborations.
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/deepak-sjd"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/deepak-sjd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/gupta_deepak_74/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/gupta.deepakkumar.14"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@funwithflutter637/featured"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Deepak74795/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<a href="https://github.com/deepak-sjd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-sjd/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Deepak74795/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://bento.me/deepaksd">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🌟 Motivation & Philosophy
+# ⭐ My Philosophy
 
-> “I don’t choose the right decisions; I choose decisions and make them right.”  
-> “Never regret a day in your life. Good days give you happiness, bad days give you experience, best days give you memories, and worst days give you lessons.”
+> "Build software that solves real business problems."
+
+> "Keep learning. Keep building. Keep shipping."
 
 ---
 
-🔗 *Thank you for visiting! Let’s build the future together, one line of code at a time.* 🚀
+<h3 align="center">
+Thanks for visiting my profile ❤️
+</h3>
+
+<h4 align="center">
+Let's build something amazing together 🚀
+</h4>
