@@ -13,58 +13,58 @@ I build AI-powered and full-stack applications using **Generative AI, LLMs, RAG,
 - ☕ Java & Spring Boot Developer
 - 🌐 Full Stack Development with React
 - 🐳 Docker & REST API development
-- 📚 Currently learning Agentic AI, System Design and Distributed Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+### AI / ML
 
 Python • Machine Learning • Deep Learning • Generative AI • LLM • RAG • LangChain • Hugging Face • OpenCV • PyTorch
 
-**Backend**
+### Backend
 
-Java • Spring Boot • Spring MVC • Spring Security • JPA • Hibernate • JDBC • REST API • JWT
+Java • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • JDBC • REST API • JWT • Maven
 
-**Frontend**
+### Frontend
 
 React • JavaScript • HTML • CSS • Flutter • Dart
 
-**Database & Tools**
+### Database & Tools
 
-MySQL • PostgreSQL • Firebase • Docker • Git • GitHub • Postman
+MySQL • PostgreSQL • Firebase • Docker • Git • GitHub • Postman • IntelliJ IDEA • VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🤖 Enterprise RAG System
-Document search and question answering system using RAG, LLMs and vector databases.
+
+Document search and question-answering system using **RAG, LLMs and vector databases**.
 
 ### 🎥 Smart Manufacturing Time Study AI
-AI-based video activity recognition system for manufacturing productivity analysis.
+
+AI-based **video activity recognition and productivity analysis** system for manufacturing.
 
 ### 🏭 AI Fault Investigation Assistant
-RAG-based assistant for manufacturing fault analysis and knowledge retrieval.
+
+RAG-based assistant for **manufacturing fault analysis, root-cause investigation and knowledge retrieval**.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Agentic AI
+- Generative AI & LLMs
 - Advanced RAG
-- AI Agents
-- MCP
+- Agentic AI
 - System Design
-- Kubernetes
-- Distributed Systems
 
 ---
 
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/deepak-sjd)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-sjd/)
 
 ---
