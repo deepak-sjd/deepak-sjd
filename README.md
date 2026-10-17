@@ -39,9 +39,9 @@
 
 | Project | What it is | Focus |
 |---|---|---|
-| **TeacherOS** | Online coaching and school platform | Full stack |
+| [**TeacherOS**](https://github.com/deepak-sjd/teacheros) | Online coaching and school platform | Full stack |
 | **AI Fault Investigator** | AI model that investigates faults and helps trace likely causes | Machine learning |
-| **B2B Sourcing CRM** | CRM built for B2B sourcing workflows | Full stack |
+| [**B2B Sourcing CRM**](https://github.com/deepak-sjd/b2b-sourcing-crm) | CRM built for B2B sourcing workflows | Full stack |
 | **Agentic Desktop Agent** | AI agent that carries out tasks on the desktop | Agentic AI |
 | [**Nexa AI**](https://github.com/deepak-sjd/nexa-ai) | Conversational assistant using Gemini and RAG | LLM, RAG |
 | [**Portfolio**](https://github.com/deepak-sjd/deepak-portfolio) | My personal portfolio website | Next.js, Spring Boot |
