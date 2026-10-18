@@ -10,6 +10,12 @@
 ![Transformers](https://img.shields.io/badge/Transformers-f59e0b?style=for-the-badge)
 ![VLMs](https://img.shields.io/badge/Vision--Language%20Models-14b8a6?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6366f1?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-a855f7?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-10b981?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
 ![Open to freelance](https://img.shields.io/badge/Open%20to-Freelance-22c55e?style=for-the-badge)
 
 <br/><br/>
